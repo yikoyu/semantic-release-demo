@@ -1,20 +1,26 @@
 {
   "name": "semantic-release-demo",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "version": "1.0.0-alpha.2",
+  "license": "MIT",
+  "description": "tiptap text editor on vuejs and vuetify",
+  "private": true,
+  "author": "yikoyu<2282373181@qq.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yikoyu/semantic-release-demo"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
   "devDependencies": {
     "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/commit-analyzer": "^9.0.2",
     "@semantic-release/git": "^10.0.1",
     "@semantic-release/github": "^8.0.7",
     "@semantic-release/npm": "^10.0.3",
-    "@semantic-release/release-notes-generator": "^10.0.3"
+    "@semantic-release/release-notes-generator": "^10.0.3",
+    "conventional-changelog-conventionalcommits": "^5.0.0",
+    "semantic-release": "^21.0.1"
   }
 }
