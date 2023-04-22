@@ -1,5 +1,5 @@
-function hello(name) {
-  return `hello ${name}`
+function hello() {
+  return `hello world`
 }
 
 function hello2(name) {
