@@ -19,6 +19,9 @@ devDependencies:
   '@semantic-release/release-notes-generator':
     specifier: ^10.0.3
     version: 10.0.3(semantic-release@21.0.1)
+  conventional-changelog-conventionalcommits:
+    specifier: ^5.0.0
+    version: 5.0.0
   semantic-release:
     specifier: ^21.0.1
     version: 21.0.1
@@ -565,6 +568,15 @@ packages:
     engines: {node: '>=10'}
     dependencies:
       compare-func: 2.0.0
+      q: 1.5.1
+    dev: true
+
+  /conventional-changelog-conventionalcommits@5.0.0:
+    resolution: {integrity: sha512-lCDbA+ZqVFQGUj7h9QBKoIpLhl8iihkO0nCTyRNzuXtcd7ubODpYB04IFy31JloiJgG0Uovu8ot8oxRzn7Nwtw==}
+    engines: {node: '>=10'}
+    dependencies:
+      compare-func: 2.0.0
+      lodash: 4.17.21
       q: 1.5.1
     dev: true
 
