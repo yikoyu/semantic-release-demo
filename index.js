@@ -3,5 +3,5 @@ function hello(name) {
 }
 
 function hello2(name) {
-  return `hello ${name}`
+  return `hello ${name} 123`
 }
