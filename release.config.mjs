@@ -5,5 +5,8 @@ export default yikoyu({
     'master',
     { name: 'beta', prerelease: true },
     { name: 'alpha', prerelease: true }
-  ]
+  ],
+  plugins: {
+    npm: false
+  }
 })

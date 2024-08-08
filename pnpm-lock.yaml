@@ -6,8 +6,8 @@ settings:
 
 devDependencies:
   '@yikoyu/semantic-release-config':
-    specifier: ^0.1.0
-    version: 0.1.0(semantic-release@24.0.0)
+    specifier: ^0.1.1
+    version: 0.1.1(semantic-release@24.0.0)
   conventional-changelog-conventionalcommits:
     specifier: ^8.0.0
     version: 8.0.0
@@ -363,8 +363,8 @@ packages:
     resolution: {integrity: sha512-I8EUhyrgfLrcTkzV3TSsGyl1tSuPrEDzr0yd5m90UgNxQkyDXULk3b6MlQqTCpZpNtWe1K0hzclnZkTcLBe2UQ==}
     dev: true
 
-  /@yikoyu/semantic-release-config@0.1.0(semantic-release@24.0.0):
-    resolution: {integrity: sha512-S+Uw4Y7CWlXzxLztDqxlzFmEIOLIsaeOt9AoKTBQu/pxEMXPZJS1rQDE4gHwlxM7vaDyNBGXPTUzcCkKQ7DBIQ==}
+  /@yikoyu/semantic-release-config@0.1.1(semantic-release@24.0.0):
+    resolution: {integrity: sha512-4kSLlhbC04aRbt+1uUNRmch81FSpIQyxcEno9PRh2C4xrRYaci5YMg3eKc9LZqL3OW5QC+qSDXL/ykVU8LT9Kw==}
     peerDependencies:
       semantic-release: ^24.0.0
     dependencies:
@@ -946,7 +946,7 @@ packages:
       source-map: 0.6.1
       wordwrap: 1.0.0
     optionalDependencies:
-      uglify-js: 3.17.4
+      uglify-js: 3.19.1
     dev: true
 
   /has-flag@3.0.0:
@@ -2003,8 +2003,8 @@ packages:
     engines: {node: '>=16'}
     dev: true
 
-  /uglify-js@3.17.4:
-    resolution: {integrity: sha512-T9q82TJI9e/C1TAxYvfb16xO120tMVFZrGA3f9/P4424DNu6ypK103y0GPFVa17yotwSyZW5iYXgjYHkGrJW/g==}
+  /uglify-js@3.19.1:
+    resolution: {integrity: sha512-y/2wiW+ceTYR2TSSptAhfnEtpLaQ4Ups5zrjB2d3kuVxHj16j/QJwPl5PvuGy9uARb39J0+iKxcRPvtpsx4A4A==}
     engines: {node: '>=0.8.0'}
     hasBin: true
     requiresBuild: true
