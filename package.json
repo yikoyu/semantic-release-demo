@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@yikoyu/semantic-release-config": "^0.1.1",
+    "@yikoyu/semantic-release-config": "^0.1.2",
     "conventional-changelog-conventionalcommits": "^8.0.0",
     "semantic-release": "^24.0.0"
   }
