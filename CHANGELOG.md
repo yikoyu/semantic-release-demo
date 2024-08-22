@@ -1,3 +1,9 @@
+## [1.0.2](https://github.com/yikoyu/semantic-release-demo/compare/v1.0.1...v1.0.2) (2024-08-22)
+
+### Bug Fixes
+
+* change hello ([241962d](https://github.com/yikoyu/semantic-release-demo/commit/241962d86bcc76734bacebf14900c31ba9444020))
+
 ## [1.0.1](https://github.com/yikoyu/semantic-release-demo/compare/v1.0.0...v1.0.1) (2024-08-22)
 
 ### Bug Fixes
